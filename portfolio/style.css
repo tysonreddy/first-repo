@@ -46,12 +46,12 @@ nav a {
 }
 @media (min-width: 0px) {
     .bg-image {
-            background-image: url("/imgs/bg1.jpg");
+            background-image: url("./bg1.jpg");
         }
 }
 @media (min-width: 1000px) {
     .bg-image {
-        background-image: url("/imgs/bg-2.jpg")
+        background-image: url("./bg-2.jpg")
     }
 }
 .bg-image {
